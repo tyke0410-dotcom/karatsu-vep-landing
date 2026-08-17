@@ -10,3 +10,4 @@
 - [ ] Confirm the repository URL and access settings.
 - [x] Synchronize the Mirai Eduventure Indonesia logo update to the GitHub export.
 - [x] Synchronize the rounded-corner treatment to GitHub.
+- [x] Synchronize the subtle, consistent Mirai logo corner radius to GitHub.
