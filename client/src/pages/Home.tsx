@@ -160,9 +160,9 @@ export default function Home() {
             />
             <span className="text-[#C96B5A] text-sm font-light hidden sm:inline">×</span>
             <img
-              src={asset("mirai-logo_930cbb3b.png")}
-              alt="Mirai Eduventure"
-              className="w-9 h-9 rounded-full object-contain flex-shrink-0"
+              src={asset("mirai-eduventure-indonesia-logo_06de27ed.png")}
+              alt="Mirai Eduventure Indonesia"
+              className="h-9 w-[112px] object-contain object-left flex-shrink-0 sm:w-[142px]"
             />
             <span className="font-medium text-xs tracking-tight hidden md:block text-[#FDFAF6] ml-1" style={{ fontSize: "13px", fontWeight: 500 }}>
               Discover a New World
@@ -755,10 +755,10 @@ export default function Home() {
                 />
                 <span className="text-2xl font-light" style={{ color: "#DDD4C4" }}>×</span>
                 <img
-                  src={asset("mirai-logo_930cbb3b.png")}
-                  alt="Mirai Eduventure"
-                  className="rounded-full object-contain shadow-sm"
-                  style={{ width: "64px", height: "64px", borderRadius: "50%" }}
+                  src={asset("mirai-eduventure-indonesia-logo_06de27ed.png")}
+                  alt="Mirai Eduventure Indonesia"
+                  className="object-contain shadow-sm"
+                  style={{ width: "176px", height: "64px" }}
                 />
               </div>
             </div>
@@ -1010,10 +1010,10 @@ export default function Home() {
               />
               <span className="text-sm font-light" style={{ color: "rgba(253,250,246,0.40)" }}>×</span>
               <img
-                src={asset("mirai-logo_930cbb3b.png")}
-                alt="Mirai Eduventure"
-                className="rounded-full object-contain"
-                style={{ width: "28px", height: "28px", borderRadius: "50%" }}
+                src={asset("mirai-eduventure-indonesia-logo_06de27ed.png")}
+                alt="Mirai Eduventure Indonesia"
+                className="object-contain object-left"
+                style={{ width: "88px", height: "28px" }}
               />
               <span className="font-medium text-sm" style={{ color: "#FDFAF6", fontSize: "13px", fontWeight: 500 }}>Mirai Eduventure</span>
             </div>
