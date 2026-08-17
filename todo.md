@@ -9,3 +9,4 @@
 - [ ] Enable GitHub Pages and verify its public URL.
 - [ ] Confirm the repository URL and access settings.
 - [x] Synchronize the Mirai Eduventure Indonesia logo update to the GitHub export.
+- [x] Synchronize the rounded-corner treatment to GitHub.
