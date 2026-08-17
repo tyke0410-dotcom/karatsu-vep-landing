@@ -162,7 +162,7 @@ export default function Home() {
             <img
               src={asset("mirai-eduventure-indonesia-logo_06de27ed.png")}
               alt="Mirai Eduventure Indonesia"
-              className="h-9 w-[112px] rounded-lg object-contain object-left flex-shrink-0 sm:w-[142px]"
+              className="h-9 w-[112px] rounded-md object-contain object-left flex-shrink-0 sm:w-[142px]"
             />
             <span className="font-medium text-xs tracking-tight hidden md:block text-[#FDFAF6] ml-1" style={{ fontSize: "13px", fontWeight: 500 }}>
               Discover a New World
@@ -757,8 +757,8 @@ export default function Home() {
                 <img
                   src={asset("mirai-eduventure-indonesia-logo_06de27ed.png")}
                   alt="Mirai Eduventure Indonesia"
-                  className="rounded-xl object-contain shadow-sm"
-                  style={{ width: "176px", height: "64px", borderRadius: "12px" }}
+                  className="rounded-md object-contain shadow-sm"
+                  style={{ width: "176px", height: "64px", borderRadius: "6px" }}
                 />
               </div>
             </div>
